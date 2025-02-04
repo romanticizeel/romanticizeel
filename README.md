@@ -41,4 +41,4 @@ I'm a **Backend Developer** currently learning to become a **Fullstack Developer
 
 ## 🌱 Currently Learning  
 - Frontend Development with **Next.js**  
-- Advanced **Laravel** and **NestJS**
+- Familiar with **Laravel** and **NestJS**
