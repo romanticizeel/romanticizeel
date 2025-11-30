@@ -36,11 +36,14 @@ I love clean code, system design, and turning ideas into functional systems.
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" />
   <img src="https://skillicons.dev/icons?i=firebase" height="48" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" />
 </p>
 
 ---
