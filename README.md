@@ -9,13 +9,13 @@ I love clean code, system design, and turning ideas into functional systems.
 
 ### **Languages**
 <p>
+  <img src="https://skillicons.dev/icons?i=go" height="48" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" />
   <img src="https://skillicons.dev/icons?i=js" height="48" />
   <img src="https://skillicons.dev/icons?i=php" height="48" />
   <img src="https://skillicons.dev/icons?i=cpp" height="48" />
   <img src="https://skillicons.dev/icons?i=python" height="48" />
   <img src="https://skillicons.dev/icons?i=cs" height="48" />
-  <img src="https://skillicons.dev/icons?i=go" height="48" />
   <img src="https://skillicons.dev/icons?i=rust" height="48" />
 </p>
 
