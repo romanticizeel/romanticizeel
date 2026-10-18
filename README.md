@@ -56,11 +56,12 @@ I'm **Mellanda**, a Backend Developer with fullstack development experience. I b
 
 </div>
 
-## 🐍 Contribution snake
+## 📊 GitHub stats
 
 <div align="center">
 
-<img src="https://snk.vercel.app/github-contribution-grid-snake.svg?user_name=romanticizeel&color_snake=%2336B8B7&color_dots=%23161b22,%230B757B,%2336B8B7,%2377DAD7,%23A5E6E2" alt="A snake eating my GitHub contribution graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=romanticizeel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36B8B7&icon_color=77DAD7&text_color=A5E6E2" alt="Mella's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticizeel&layout=compact&hide_border=true&bg_color=0d1117&title_color=36B8B7&text_color=A5E6E2" alt="Top languages" />
 
 </div>
 
