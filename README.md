@@ -13,7 +13,7 @@
 I'm **Mellanda**, a Backend Developer with fullstack development experience. I build web applications and backend services with **Golang, PHP and TypeScript**: REST APIs, microservices, caching and asynchronous workflows. I love clean code, system design, and turning ideas into functional systems.
 
 - 📍 Based in **Malang, Indonesia**
-- 💼 Backend Developer at **PT. Traspac Makmur Sejahtera** (remote), working on the BKPM Investment Learning Center
+- 💼 Backend Developer at **PT. Traspac Makmur Sejahtera** (remote)
 - 🎓 Studying **Information System** at BINUS Online
 - 🗣️ Bahasa Indonesia (native), English (B1)
 
