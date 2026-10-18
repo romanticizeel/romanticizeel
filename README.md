@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B757B,50:0A858C,100:36B8B7&height=220&section=header&text=Mellanda%20Kumalasari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Mellanda Kumalasari" width="100%" />
 
 <a href="https://github.com/romanticizeel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=0A858C&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer+with+Fullstack+experience;Golang+microservices%2C+REST+APIs+%26+queues;Laravel%2C+NestJS+%26+Next.js;Clean+code%2C+system+design%2C+functional+systems" alt="Animated lines: Backend Developer; Golang microservices, REST APIs and queues; Laravel, NestJS and Next.js; Clean code, system design, functional systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=0A858C&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer;Golang+microservices%2C+REST+APIs+%26+queues;Laravel%2C+NestJS+%26+Next.js;Clean+code%2C+system+design%2C+functional+systems" alt="Animated lines: Backend Developer with Fullstack experience; Golang microservices, REST APIs and queues; Laravel, NestJS and Next.js; Clean code, system design, functional systems" />
 </a>
 
 </div>
