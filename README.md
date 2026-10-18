@@ -71,47 +71,6 @@ func main() {
 - 🧩 Backend with **microservice architecture**
 - ⚙️ Building scalable APIs with **NestJS**, **Go** & **Rust**
 
-## 🚀 Selected projects
-
-Eight projects from my portfolio, most recent first.
-
-| Project | My part | Stack |
-| --- | --- | --- |
-| **ILC-BKPM**<br/><sub>Investment Learning Center</sub> | Backend services in Golang within a microservices architecture, with Redis, RabbitMQ and PostgreSQL. | `Golang` `PostgreSQL` `Redis` `RabbitMQ` `Microservices` `REST API` `RPC` `Svelte` |
-| **POS Website**<br/><sub>Web-Based Point of Sale System</sub> | NestJS and TypeScript backend, Midtrans payments, OCR-assisted ordering and inventory. | `NestJS` `Next.js` `Midtrans API` `OCR Integration` `PostgreSQL` `TypeScript` `JavaScript` |
-| **Yummo**<br/><sub>AI-Powered Recipe Recommendation Website</sub> | NestJS backend and Next.js frontend, with Gemini-powered recipe recommendations. | `NestJS` `Next.js` `Gemini API` `Pollinations.ai API` `PostgreSQL` `TypeScript` |
-| **SMKN 8 Malang**<br/><sub>School Profile Website</sub> | Led the development team; NestJS backend and APIs for the Next.js frontend. | `NestJS` `Next.js` `Axios` `PostgreSQL` `TypeScript` |
-| **Wedvite**<br/><sub>Digital Wedding Invitation Platform</sub> | Set coding standards and reviewed pull requests; Laravel backend features. | `Laravel` `PHP` `Blade` `MySQL` `Midtrans API` `HTML` `CSS` `JavaScript` |
-| **RN Billing Service**<br/><sub>MikroTik Billing &amp; RADIUS Management System</sub> | Billing and customer-management features, MikroTik API integration and MySQL. | `PHP` `MikroTik API` `MySQL` `HTML` `CSS` `JavaScript` |
-| **UniKos**<br/><sub>Boarding House Booking Platform</sub> | Led the development team; Laravel and Blade frontend and backend features. | `Laravel` `PHP` `Blade` `MySQL` |
-| **SIMAS**<br/><sub>School Administration Management System</sub> | PHP and JavaScript application with a MySQL database and administrative features. | `PHP` `JavaScript` `MySQL` `HTML` `CSS` |
-
-## 🧭 Experience & education
-
-<details>
-<summary><b>Click to expand</b></summary>
-
-| When | Role | Where |
-| --- | --- | --- |
-| May 2025 – Present | Backend Developer, Full-time (Remote) | **PT. Traspac Makmur Sejahtera**, Central Jakarta |
-| Jun 2024 – Apr 2025 | Fullstack Developer, Internship | **Paperplay Studio**, Malang |
-| Jun 2023 – Jul 2024 | Backend & Fullstack Developer, Internship | **Unimasoft.id**, Malang |
-| Mar 2023 – Jun 2023 | Backend Developer, Internship | **PT. Tiga Pilar Garuda**, Malang |
-
-| When | Program | School |
-| --- | --- | --- |
-| May 2026 – Present | Undergraduate, Information System | **BINUS Online** |
-| Jun 2022 – Jun 2025 | Software Engineering | **SMK Negeri 4 Malang** |
-
-</details>
-
-## 🏆 Achievements
-
-| | Result | Event |
-| --- | --- | --- |
-| 🥇 | **1st Place, Best Content** | JTI Play IT Competition 2024, Web Development. Team of three, as Backend Developer. |
-| 🥉 | **3rd Place** | Traspac IT Competition 2025, Web/Mobile Apps. Solo project as Full Stack Developer. |
-
 ## 📊 GitHub stats
 
 <div align="center">
