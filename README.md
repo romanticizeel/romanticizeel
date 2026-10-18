@@ -60,13 +60,7 @@ I'm **Mellanda**, a Backend Developer with fullstack development experience. I b
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
-</picture>
-
-<sub>Regenerated every day by GitHub Actions.</sub>
+<img src="https://snk.vercel.app/github-contribution-grid-snake.svg?user_name=romanticizeel&color_snake=%2336B8B7&color_dots=%23161b22,%230B757B,%2336B8B7,%2377DAD7,%23A5E6E2" alt="A snake eating my GitHub contribution graph" />
 
 </div>
 
