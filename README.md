@@ -17,36 +17,6 @@ I'm **Mellanda**, a Backend Developer with fullstack development experience. I b
 - 🎓 Studying **Information System** at BINUS Online
 - 🗣️ Bahasa Indonesia (native), English (B1)
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-	Name     string
-	Role     string
-	Based    string
-	Focus    []string
-	Stack    []string
-	Learning []string
-	Loves    []string
-}
-
-func main() {
-	me := Developer{
-		Name:     "Mellanda Kumalasari",
-		Role:     "Backend Developer (fullstack experience)",
-		Based:    "Malang, Indonesia",
-		Focus:    []string{"Golang microservices", "REST APIs", "Caching & queues"},
-		Stack:    []string{"Go", "PHP", "TypeScript", "PostgreSQL", "Redis", "RabbitMQ"},
-		Learning: []string{"Rust", "Microservice architecture", "Next.js"},
-		Loves:    []string{"Clean code", "System design", "Functional systems"},
-	}
-
-	fmt.Printf("%+v\n", me)
-}
-```
-
 ## 🛠️ Tech stack
 
 <div align="center">
