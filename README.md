@@ -56,15 +56,6 @@ I'm **Mellanda**, a Backend Developer with fullstack development experience. I b
 
 </div>
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=romanticizeel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36B8B7&icon_color=77DAD7&text_color=A5E6E2" alt="Mella's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticizeel&layout=compact&hide_border=true&bg_color=0d1117&title_color=36B8B7&text_color=A5E6E2" alt="Top languages" />
-
-</div>
-
 <div align="center">
 
 ### Let's work on something meaningful, together.
