@@ -1,54 +1,156 @@
-# 💻 Hello, I'm romanticizeel! 👋
+<div align="center">
 
-I'm a **Backend Developer** on my journey to becoming a **Fullstack Developer**.  
-I love clean code, system design, and turning ideas into functional systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B757B,50:0A858C,100:36B8B7&height=220&section=header&text=Mellanda%20Kumalasari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Mellanda Kumalasari" width="100%" />
 
----
+<a href="https://github.com/romanticizeel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=0A858C&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer+with+Fullstack+experience;Golang+microservices%2C+REST+APIs+%26+queues;Laravel%2C+NestJS+%26+Next.js;Clean+code%2C+system+design%2C+functional+systems" alt="Animated lines: Backend Developer with Fullstack experience; Golang microservices, REST APIs and queues; Laravel, NestJS and Next.js; Clean code, system design, functional systems" />
+</a>
 
-## 🛠️ Tech Stack
+</div>
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=go" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" />
-  <img src="https://skillicons.dev/icons?i=php" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://skillicons.dev/icons?i=cs" height="48" />
-  <img src="https://skillicons.dev/icons?i=rust" height="48" />
-</p>
+## 👋 About me
 
----
+I'm **Mellanda**, a Backend Developer with fullstack development experience. I build web applications and backend services with **Golang, PHP and TypeScript**: REST APIs, microservices, caching and asynchronous workflows. I love clean code, system design, and turning ideas into functional systems.
 
-### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="48" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="48" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" />
-</p>
+- 📍 Based in **Malang, Indonesia**
+- 💼 Backend Developer at **PT. Traspac Makmur Sejahtera** (remote), working on the BKPM Investment Learning Center
+- 🎓 Studying **Information System** at BINUS Online
+- 🗣️ Bahasa Indonesia (native), English (B1)
 
----
+```go
+package main
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="48" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" />
-  <img src="https://skillicons.dev/icons?i=postman" height="48" />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" />
-  <img src="https://skillicons.dev/icons?i=aws" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" />
-</p>
+import "fmt"
 
----
+type Developer struct {
+	Name     string
+	Role     string
+	Based    string
+	Focus    []string
+	Stack    []string
+	Learning []string
+	Loves    []string
+}
 
-## 🌱 Currently Learning
-- Frontend Development with **Next.js**
-- Developing backend with **Microservice Architecture**
-- Building scalable APIs using **NestJS**, **Go**, & **Rust**
+func main() {
+	me := Developer{
+		Name:     "Mellanda Kumalasari",
+		Role:     "Backend Developer (fullstack experience)",
+		Based:    "Malang, Indonesia",
+		Focus:    []string{"Golang microservices", "REST APIs", "Caching & queues"},
+		Stack:    []string{"Go", "PHP", "TypeScript", "PostgreSQL", "Redis", "RabbitMQ"},
+		Learning: []string{"Rust", "Microservice architecture", "Next.js"},
+		Loves:    []string{"Clean code", "System design", "Functional systems"},
+	}
+
+	fmt.Printf("%+v\n", me)
+}
+```
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=go,ts,js,php,cpp,python,cs,rust&perline=8" alt="Go, TypeScript, JavaScript, PHP, C++, Python, C#, Rust" />
+
+**Frameworks & libraries**<br/>
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,nextjs,prisma,dotnet,tailwind,bootstrap&perline=8" alt="Laravel, NestJS, Node.js, Next.js, Prisma, .NET, Tailwind CSS, Bootstrap" />
+
+**Data, messaging & cloud**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq,supabase,firebase,aws,docker&perline=8" alt="PostgreSQL, MySQL, Redis, RabbitMQ, Supabase, Firebase, AWS, Docker" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,postman,figma&perline=8" alt="Git, Postman, Figma" />
+
+</div>
+
+## 🌱 Currently leveling up
+
+- 🌐 Frontend development with **Next.js**
+- 🧩 Backend with **microservice architecture**
+- ⚙️ Building scalable APIs with **NestJS**, **Go** & **Rust**
+
+## 🚀 Selected projects
+
+Eight projects from my portfolio, most recent first.
+
+| Project | My part | Stack |
+| --- | --- | --- |
+| **ILC-BKPM**<br/><sub>Investment Learning Center</sub> | Backend services in Golang within a microservices architecture, with Redis, RabbitMQ and PostgreSQL. | `Golang` `PostgreSQL` `Redis` `RabbitMQ` `Microservices` `REST API` `RPC` `Svelte` |
+| **POS Website**<br/><sub>Web-Based Point of Sale System</sub> | NestJS and TypeScript backend, Midtrans payments, OCR-assisted ordering and inventory. | `NestJS` `Next.js` `Midtrans API` `OCR Integration` `PostgreSQL` `TypeScript` `JavaScript` |
+| **Yummo**<br/><sub>AI-Powered Recipe Recommendation Website</sub> | NestJS backend and Next.js frontend, with Gemini-powered recipe recommendations. | `NestJS` `Next.js` `Gemini API` `Pollinations.ai API` `PostgreSQL` `TypeScript` |
+| **SMKN 8 Malang**<br/><sub>School Profile Website</sub> | Led the development team; NestJS backend and APIs for the Next.js frontend. | `NestJS` `Next.js` `Axios` `PostgreSQL` `TypeScript` |
+| **Wedvite**<br/><sub>Digital Wedding Invitation Platform</sub> | Set coding standards and reviewed pull requests; Laravel backend features. | `Laravel` `PHP` `Blade` `MySQL` `Midtrans API` `HTML` `CSS` `JavaScript` |
+| **RN Billing Service**<br/><sub>MikroTik Billing &amp; RADIUS Management System</sub> | Billing and customer-management features, MikroTik API integration and MySQL. | `PHP` `MikroTik API` `MySQL` `HTML` `CSS` `JavaScript` |
+| **UniKos**<br/><sub>Boarding House Booking Platform</sub> | Led the development team; Laravel and Blade frontend and backend features. | `Laravel` `PHP` `Blade` `MySQL` |
+| **SIMAS**<br/><sub>School Administration Management System</sub> | PHP and JavaScript application with a MySQL database and administrative features. | `PHP` `JavaScript` `MySQL` `HTML` `CSS` |
+
+## 🧭 Experience & education
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+| When | Role | Where |
+| --- | --- | --- |
+| May 2025 – Present | Backend Developer, Full-time (Remote) | **PT. Traspac Makmur Sejahtera**, Central Jakarta |
+| Jun 2024 – Apr 2025 | Fullstack Developer, Internship | **Paperplay Studio**, Malang |
+| Jun 2023 – Jul 2024 | Backend & Fullstack Developer, Internship | **Unimasoft.id**, Malang |
+| Mar 2023 – Jun 2023 | Backend Developer, Internship | **PT. Tiga Pilar Garuda**, Malang |
+
+| When | Program | School |
+| --- | --- | --- |
+| May 2026 – Present | Undergraduate, Information System | **BINUS Online** |
+| Jun 2022 – Jun 2025 | Software Engineering | **SMK Negeri 4 Malang** |
+
+</details>
+
+## 🏆 Achievements
+
+| | Result | Event |
+| --- | --- | --- |
+| 🥇 | **1st Place, Best Content** | JTI Play IT Competition 2024, Web Development. Team of three, as Backend Developer. |
+| 🥉 | **3rd Place** | Traspac IT Competition 2025, Web/Mobile Apps. Solo project as Full Stack Developer. |
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<a href="https://github.com/romanticizeel">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=romanticizeel&show_icons=true&hide_border=true&border_radius=14&bg_color=062326&title_color=77DAD7&text_color=E3F3F0&icon_color=36B8B7" alt="Mellanda's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanticizeel&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=062326&title_color=77DAD7&text_color=E3F3F0" alt="Most used languages" />
+</a>
+
+<a href="https://github.com/romanticizeel">
+  <img src="https://streak-stats.demolab.com/?user=romanticizeel&hide_border=true&border_radius=14&background=062326&ring=36B8B7&fire=77DAD7&currStreakNum=E3F3F0&sideNums=E3F3F0&currStreakLabel=77DAD7&sideLabels=A5E6E2&dates=A5E6E2" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/romanticizeel/romanticizeel/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
+</picture>
+
+<sub>Regenerated every day by GitHub Actions.</sub>
+
+</div>
+
+<div align="center">
+
+### Let's work on something meaningful, together.
+
+Always keen to take part in meaningful, collaborative projects, from backend services to full web applications.<br/>
+Email or LinkedIn is the best way to reach me.
+
+<a href="https://www.linkedin.com/in/mellanda-kumalasari/"><img src="https://img.shields.io/badge/LinkedIn-0B757B?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:mellandakumalasari13@gmail.com"><img src="https://img.shields.io/badge/Email-0A858C?style=for-the-badge" alt="Email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36B8B7,50:0A858C,100:0B757B&height=120&section=footer" alt="" width="100%" />
+
+</div>
